@@ -13,23 +13,18 @@ if it looks fun, i’m probably already building it 🚀<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonaliisamal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonaliisamal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliisamal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliisamal&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sonaliisamal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sonaliisamal&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-
-
