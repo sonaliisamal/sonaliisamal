@@ -12,4 +12,6 @@ if it looks fun, i’m probably already building it 🚀<br/>
  
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=sonaliisamal&cache_seconds=1&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonaliisamal&theme=tokyonight&hide_border=true" />
+</p>
